@@ -75,6 +75,7 @@ Para cada problema:
 | 001      | ✅     | 2025-04-15 | 0,5 horas   | Fácil       |
 | 002      | ✅     | 2025-04-15 | 0,5 horas   | Fácil       |
 | 003      | ✅     | 2025-04-15 | 0,5 horas   | Fácil       |
+| 004      | ✅     | 2025-04-15 | 0,5 horas   | Fácil       |
 | ...      |        |            |             |             |
 
 ## 📚 Recursos de Aprendizado
