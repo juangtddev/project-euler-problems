@@ -73,6 +73,7 @@ Para cada problema:
 | Problema | Status | Data       | Tempo Gasto | Dificuldade |
 | -------- | ------ | ---------- | ----------- | ----------- |
 | 001      | ✅     | 2025-04-15 | 0,5 horas   | Fácil       |
+| 002      | ✅     | 2025-04-15 | 0,5 horas   | Fácil       |
 | ...      |        |            |             |             |
 
 ## 📚 Recursos de Aprendizado
