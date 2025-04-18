@@ -80,6 +80,7 @@ Para cada problema:
 | 006      | ✅     | 2025-04-16 | 0,5 horas   | Fácil       |
 | 007      | ✅     | 2025-04-16 | 0,5 horas   | Fácil       |
 | 008      | ✅     | 2025-04-16 | 2,5 horas   | Dificil     |
+| 009      | ✅     | 2025-04-18 | 3 horas     | Dificil     |
 | ...      |        |            |             |             |
 
 ## 📚 Recursos de Aprendizado
